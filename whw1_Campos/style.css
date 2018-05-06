@@ -1,0 +1,39 @@
+
+
+
+body {
+
+background-color: rgba(255, 248, 220, 5);
+}
+
+
+
+p {
+	
+	font-family:Arial, "times New Roman", "comic sans";
+	
+	color: brown;
+		
+}
+
+
+	
+	
+#1 {
+	color:brown;
+	
+	
+	
+}
+
+
+#p2 {
+	
+	font-style: underline;
+	font-size: 2em;
+	
+/**addin a style just to p2, an id that I gave to a paragraph in the home page **
+}
+
+/**rgba for RED-GREEN-BLUE and Alpha, the 211 are gray for those colors and A for transparency **
+/** this sign # is to apply styles for ID elements in the page
